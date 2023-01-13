@@ -1,0 +1,19 @@
+.art-banner {
+    color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	align-items: center;
+}
+
+.title-site {
+    padding-left: 32px;
+}
+
+.gojoraph {
+    height: 800px;
+    width: 800px;
+}
